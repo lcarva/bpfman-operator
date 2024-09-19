@@ -37,7 +37,7 @@ spec:
       ## in kind so mount it if needed.
       initContainers:
         - name: mount-bpffs
-          image: quay.io/fedora/fedora-minimal:39
+          image: quay.io/fedora/fedora-minimal:42
           command:
             - /bin/sh
             - -xc
