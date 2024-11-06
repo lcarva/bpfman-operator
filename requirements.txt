@@ -4,7 +4,10 @@
 #
 #    pip-compile --generate-hashes requirements.in
 #
-ruamel-yaml==0.17.9 \
+ruamel-yaml==0.18.6 \
     --hash=sha256:374373b4743aee9f6d9f40bea600fe020a7ac7ae36b838b4a6a93f72b584a14c \
     --hash=sha256:8873a6f5516e0d848c92418b0b006519c0566b6cd0dcee7deb9bf399e2bd204f
     # via -r requirements.in
+ruamel.yaml==0.18.6 \
+    --hash=sha256:57b53ba33def16c4f3d807c0ccbc00f8a6081827e81ba2491691b76882d0c636 \
+    --hash=sha256:8b27e6a217e786c6fbe5634d8f3f11bc63e0f80f6a5890f28863d9c45aac311b
