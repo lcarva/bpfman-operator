@@ -1,8 +1,8 @@
 module github.com/bpfman/bpfman-operator
 
-go 1.22.0
+go 1.23
 
-toolchain go1.22.2
+toolchain go1.23.7
 
 require (
 	github.com/bpfman/bpfman v0.5.1
@@ -86,7 +86,7 @@ require (
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20240430033511-f0e62f92d13f // indirect
 	k8s.io/utils v0.0.0-20240711033017-18e509b52bc8 // indirect
-	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
+	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8 // indirect
 	sigs.k8s.io/kind v0.24.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.1 // indirect
 )
