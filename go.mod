@@ -32,7 +32,7 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240730163845-b1a4ccb954bf // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	k8s.io/gengo/v2 v2.0.0-20240228010128-51d4e06bde70 // indirect
-	sigs.k8s.io/gateway-api v1.1.0 // indirect
+	sigs.k8s.io/gateway-api v1.3.0 // indirect
 )
 
 require (
